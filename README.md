@@ -38,6 +38,9 @@ How I am going to obtain the skills, qualifications and experiences required to 
 
 ### Test Results
 ## Myers-Briggs Test Results 
+![Image](https://imgur.com/a/Q74NRPw)
+![https://imgur.com/a/Q74NRPw](src)
+
 
 I agree with the results of the Myers-Braggs test, I believe that I am an introverted person but can become an extroverted person in my comfort zone with familiar surroundings. Although I am an introverted person the test showed that I am intuitive and have a creative and imaginative mind.
 
@@ -61,7 +64,7 @@ I believe these results could both negativity and positively impact my behaviour
 
 In the future when forming a team I will let them know of my positives and negatives and that way they will be understanding if I am a bit shy at first but when I warm up I’ll be the creative person that I love to be.
 
-#Project Idea
+# Project Idea
 The project I have come up with is an Australian inspired Battle Royale game. This would contain popular Australian landmarks and animals native to Australia to interact with, I would also like it to contain Australian vehicles to get around the game with. The aim of the game is there are 100 people in a Qantas lookalike plane and they need to jump out and fight to the death, the map will be closed in due to a dust storm that will kill players if they do not get into the centre of it. The last person that is left is crowned the king and wins the game.
 
 The motivation for an Australian themed battle royale game is that there is nothing quite like it. The battle royale gaming market is currently booming with the likes of the game Fortnite and games similar such as Player Unknowns Battlegrounds. I believe an Australian battle royale game would be unique because there are many things native to Australia that could be implemented into a battle royale environment. Dangers such as Snakes, Dingos, Spiders and the harsh conditions of places such as Port Hedland, Alice Springs, Mount Isa and many more super-hot places could all come into play within a battle royale game with their own unique properties.
