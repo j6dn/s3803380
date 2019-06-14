@@ -7,8 +7,8 @@ I chose to study at RMIT University because I have always wanted to get educated
 What I expected to learn from studying at RMIT University was the ability to be able to work in a team and collaborate on projects. I was really hoping I would get the chance to create a website as well which is awesome since it’s what the first assignment is partly about and It made me excited to learn how to do so.
 
 
-### Ideal Job
-Computer Technician 
+# Ideal Job
+### Computer Technician 
 http://www.domaynecareers.com.au/domayne/en/job/518205/computer-technician-watergardens?source=Indeed+Search+Engine
 
 I would love the be a computer technician, I think it would be very beneficial for me because the worlds demand for computers is only growing and with computers comes the people needed to fix them if something goes wrong or to build them for specific needs. If that be a workstation for someone who needs it for demanding tasks such as video editing, music production and photo manipulation.
@@ -80,6 +80,22 @@ The skills required to be a game developer are the ability to write code to turn
 
 If my project is successful, the outcome would be that the game would be available on all consoles including PS4, Xbox, Switch and PC/Mac. If successful the game would receive consistent updates to keep the bugs to a minimum and the playability to a maximum adding content with every update to keep the game interesting.  Hopefully leading to a follow up game based in another part of the world with all new weapons, vehicles and environment.
 If the game is successful through digital downloads I would hope to eventually release it as a physical copy with any addons that the game had over the span of time of it being digital.
+
+
+# References
+
+16personalities.com. (2019). AnonymousLogician - Turbulent Logician (INTP-T) | 16Personalities. [online] Available at: https://www.16personalities.com/profiles/76a0e24c29b90 [Accessed 14 Jun. 2019].
+
+Educationplanner.org. (2019). What's Your Learning Style? 20 Questions. [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=9&T=5 [Accessed 14 Jun. 2019].
+
+Iwaniuk, P. (2019). What kind of PC do you need for game development?. [online] pcgamer. Available at: https://www.pcgamer.com/au/game-development-pc/ [Accessed 14 Jun. 2019].
+
+TechNadu. (2019). The 10 Best Workstation GPUs to Buy in 2019 For Professional Workloads. [online] Available at: https://www.technadu.com/best-workstation-gpu/63380/ [Accessed 14 Jun. 2019].
+
+Truity. (2019). The Big Five Personality Test. [online] Available at: https://www.truity.com/personality-test/13683/test-results/7957327 [Accessed 14 Jun. 2019].
+
+Upload.wikimedia.org. (2019). [online] Available at: https://upload.wikimedia.org/wikipedia/commons/1/1f/MyersBriggsTypes.png [Accessed 14 Jun. 2019].
+
 
 
 
