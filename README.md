@@ -36,7 +36,9 @@ The skills I currently have are ones that I have gained over the years just thro
 
 How I am going to obtain the skills, qualifications and experiences required to be a computer technician is to find a traineeship and if there isn’t any available in my area I will then work towards my certificate in IT or higher.
 
-
+### Test Results
+## Myers-Briggs Test Results 
+![https://imgur.com/a/Q74NRPw]
 
 
 
