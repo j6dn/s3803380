@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Intrests in IT
 
-You can use the [editor on GitHub](https://github.com/j6dn/s3803380/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My IT interest began at a young age when my Pop introduced me to his PC, at the time it was the most fascinating thing to me and still is to this day. The fact I was able to do everything I wanted on a computer just blew my mind. I could listen to music, create visuals, do schoolwork, browse the internet and do my favourite thing at the time and play Adventure Quest. From this when I learnt how to use most of the built-in programs, and I became fascinated with Windows Movie Maker and I used to make basic slideshow type videos with photos my family took and burn it to a DVD and sell it to them for $5 each. I then went on to using Adobe After Effects and editing videos for YouTube and gained experience in using it which I can still do to this day. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I chose to study at RMIT University because I have always wanted to get educated when it came to IT, I wanted to learn things that I felt could benefit me in the long run and allow me to further my studies if I choose to do so.
+
+What I expected to learn from studying at RMIT University was the ability to be able to work in a team and collaborate on projects. I was really hoping I would get the chance to create a website as well which is awesome since it’s what the first assignment is partly about and It made me excited to learn how to do so.
+
 
 ### Markdown
 
