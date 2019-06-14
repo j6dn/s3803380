@@ -15,21 +15,22 @@ I would love the be a computer technician, I think it would be very beneficial f
 
 The responsibilities needed to be a computer technician include 
 
-•	The ability to setup hardware
-•	Install and update drivers if needed to the latest stable versions 
-•	Install and configure software
-•	Perform regular upgrades to ensure systems remain updated and secure
-•	Troubleshoot system failures and bugs and then provide solutions to restore functionality
-•	Keep records of repairs and fixes for future reference
-•	The ability to install well-functioning LAN/WAN and other networks and manage the components such as servers, IPs etc.
+-	The ability to setup hardware
+- Install and update drivers if needed to the latest stable versions 
+- Install and configure software
+- Perform regular upgrades to ensure systems remain updated and secure
+-	Troubleshoot system failures and bugs and then provide solutions to restore functionality
+-	Keep records of repairs and fixes for future reference
+-	The ability to install well-functioning LAN/WAN and other networks and manage the components such as servers, IPs etc.
+
 The Requirements needed to be a computer technician include
 
-•	Proven experience as a computer technician or a similar role
-•	Experience with networking
-•	Knowledge of computer systems and IT components 
-•	Excellent troubleshooting skills
-•	Good communication skills
-•	Time management skills
+- Proven experience as a computer technician or a similar role
+-	Experience with networking
+-	Knowledge of computer systems and IT components 
+-	Excellent troubleshooting skills
+-	Good communication skills
+-	Time management skills
 
 The skills I currently have are ones that I have gained over the years just through my fascination with computers and IT. I can build a PC from scratch without fail and I can isolate a problem within a computer and then repair it from a hardware perspective. I am able to create visuals with Adobe Photoshop, Lightroom, Premier and After Effects.
 
