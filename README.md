@@ -38,7 +38,8 @@ How I am going to obtain the skills, qualifications and experiences required to 
 
 ### Test Results
 ## Myers-Briggs Test Results 
-![https://imgur.com/a/Q74NRPw]
+![https://imgur.com/a/Q74NRPw](src)
+![image](https://imgur.com/a/Q74NRPw)
 
 
 
