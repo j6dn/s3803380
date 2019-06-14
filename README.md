@@ -1,3 +1,4 @@
+# Assignment 1 – Jayden Kube S3803380@student.rmit.edu.au
 # Interests in IT
 
 My IT interest began at a young age when my Pop introduced me to his PC, at the time it was the most fascinating thing to me and still is to this day. The fact I was able to do everything I wanted on a computer just blew my mind. I could listen to music, create visuals, do schoolwork, browse the internet and do my favourite thing at the time and play Adventure Quest. From this when I learnt how to use most of the built-in programs, and I became fascinated with Windows Movie Maker and I used to make basic slideshow type videos with photos my family took and burn it to a DVD and sell it to them for $5 each. I then went on to using Adobe After Effects and editing videos for YouTube and gained experience in using it which I can still do to this day. 
