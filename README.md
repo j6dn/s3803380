@@ -1,4 +1,4 @@
-## Interests in IT
+# Interests in IT
 
 My IT interest began at a young age when my Pop introduced me to his PC, at the time it was the most fascinating thing to me and still is to this day. The fact I was able to do everything I wanted on a computer just blew my mind. I could listen to music, create visuals, do schoolwork, browse the internet and do my favourite thing at the time and play Adventure Quest. From this when I learnt how to use most of the built-in programs, and I became fascinated with Windows Movie Maker and I used to make basic slideshow type videos with photos my family took and burn it to a DVD and sell it to them for $5 each. I then went on to using Adobe After Effects and editing videos for YouTube and gained experience in using it which I can still do to this day. 
 
@@ -36,11 +36,8 @@ The skills I currently have are ones that I have gained over the years just thro
 
 How I am going to obtain the skills, qualifications and experiences required to be a computer technician is to find a traineeship and if there isn’t any available in my area I will then work towards my certificate in IT or higher.
 
-### Test Results
-## Myers-Briggs Test Results 
-![Image](https://imgur.com/a/Q74NRPw)
-![https://imgur.com/a/Q74NRPw](src)
-
+# Test Results
+### Myers-Briggs Test Results 
 
 I agree with the results of the Myers-Braggs test, I believe that I am an introverted person but can become an extroverted person in my comfort zone with familiar surroundings. Although I am an introverted person the test showed that I am intuitive and have a creative and imaginative mind.
 
@@ -48,7 +45,7 @@ I believe that I can be a valuable member of a team in both a workforce and a le
 
 When forming a team, I would take this into account by trying my hardest to be more extroverted and self-confident, and using my thinking trait to prioritize and be efficient. Ensuring I use my best initiative to succeed in team environment. 
 
-## Online Learning Styles Test Results
+### Online Learning Styles Test Results
 
 The results of these tests showed me that I am a visual learner, I agree with this as a visual approach to learning tends to stick in my brain as opposed to a theoretical or auditory form of learning.
 
@@ -56,7 +53,7 @@ I believe these results could influence my behaviour in a team in a positive way
 
 The way I should take this into account when forming a team is to try and find people with other learning styles and that way we can all collaborate our ideas and help each other if needed.
 
-## Online Big 5 Personality Test
+### Online Big 5 Personality Test
 
 The results of the Big 5 test showed me that my openness trait is my highest which makes sense to me because I believe that I think in an abstract and complex way. I think that I am a creative person that loves to play around with ideas, and this is exactly what the test shows. It also shows that I am very high in neuroticism and I think this also makes sense since I experience one if not a combination of the following feelings; fear, sadness, anxiety, guilt and shame on a daily basis.
 
